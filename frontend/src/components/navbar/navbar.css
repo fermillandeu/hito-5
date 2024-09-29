@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: center; 
+    background-color: #f8f9fa; 
+    padding: 1rem; 
+  }
+  
+  .navbar-button {
+    background-color: gray; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    margin: 0 10px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+  }
+  
+  .navbar-button:hover {
+    background-color: darkgray; 
+  }
+  
